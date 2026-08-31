@@ -87,8 +87,7 @@ Contributions are welcome. Suggested workflow:
 Please add a LICENSE file if you want to make contribution/licensing terms explicit.
 
 ## License
-
-No license is specified in this repository. If you want others to reuse or contribute, add a LICENSE (for example, MIT or Apache-2.0).
+MIT. See LICENSE file.
 
 ---
 
